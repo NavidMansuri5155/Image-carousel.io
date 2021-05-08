@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(176, 145, 204);
+}
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+img {
+  height: 300px;
+  width: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(114, 183, 206);
+  }
+  img {
+      height: 300px;
+      width: 260px;
+  }
+}
+
