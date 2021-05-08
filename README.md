@@ -1,4 +1,4 @@
-    # Image-carousel React.js
+### Image-carousel React.js
 
 A flexible and responsive carousel component for react
 
@@ -61,7 +61,7 @@ function App() {
 export default App;
 
 ```
-
+<img src="Image/public/img/Screenshot from 2021-05-08 18-52-13.png" />
 
 ### `Development`
 
