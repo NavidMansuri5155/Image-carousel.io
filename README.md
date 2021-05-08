@@ -61,7 +61,19 @@ function App() {
 export default App;
 
 ```
-<img src="Image/public/img/Screenshot from 2021-05-08 18-52-13.png" />
+## How will it be like 🙂
+
+### laptop💻
+<img src="public/img/Screenshot from 2021-05-08 18-52-13.png" />
+
+### ipad 
+
+<img src="public/img/Screenshot from 2021-05-08 18-52-34.png" />
+
+### Mobile📱
+
+<img src="public/img/Screenshot from 2021-05-08 18-53-04.png" />
+
 
 ### `Development`
 
