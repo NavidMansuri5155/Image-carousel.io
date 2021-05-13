@@ -26,9 +26,8 @@ react-elastic-carousel is using styled-components for styling, this means that y
 
 ### `Usage`
 
-```
+```javascript
 import Carousel from "react-elastic-carousel";
-
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
@@ -58,8 +57,7 @@ function App() {
   );
 }
 
-export default App;
-
+export default App; 
 ```
 ## How will it be like 🙂
 
